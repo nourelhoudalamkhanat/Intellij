@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+## Outils utilisés
+- Git
+- GitHub
+- IntelliJ IDEA
+=======
 # Intellij
 # TP Git et GitHub
 
@@ -14,3 +20,4 @@ Apprendre à :
 - Effectuer des commits
 - Collaborer sur un projet via GitHub
 - Fusionner les modifications avec des Pull Requests
+>>>>>>> aa31cc5b40851cf977ce55d23d619aae62df946c
